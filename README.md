@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+강인성 (28)
+
+내용은 추후에 보강하겠습니다.
+
 <!--
 **tails5555/tails5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
