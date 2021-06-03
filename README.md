@@ -7,14 +7,10 @@
 Back-End Developer (Front-End 는 JS 를 좋아합니다!)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftails5555&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9D%B8%EC%84%B1-%EA%B0%95-61675919b/)](https://www.linkedin.com/in/%EC%9D%B8%EC%84%B1-%EA%B0%95-61675919b//)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails5555)](https://solved.ac/tails5555/)
-
 [![tails5555's github stats](https://github-readme-stats.vercel.app/api?username=tails5555&theme=gruvbox&show_icons=true)](https://github.com/tails5555)
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tails5555)](https://solved.ac/tails5555/)
 
 > 지금은 폐쇄망 환경에서 코딩하고 있습니다! 커밋이 더딜 수 있으나, 어느 장소에서든 공부를 할 수 있게 끝까지 노력하고 있습니다.
 
