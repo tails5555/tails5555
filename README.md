@@ -32,7 +32,7 @@ Back-End Developer (Front-End 는 JS 를 좋아합니다!)
 
 > 🤔 앞으로 할 거 : Kubernates / Go / Node.js / Kafka / Kotlin / Netty etc.
 
-> 🌱 앞으로의 계획 : 존나 열심히 해서 지금 회사보다 좋은 곳으로 승천하기
+> 🌱 앞으로의 계획 : 열심히 해서 좋은 곳으로 승천하기
 
 > KangDB's Portfolio : [접속하기](https://kangdb-portfolio.notion.site/Kang-In-Sung-2eeef635db9e4e7bb7e949d4f5110181)
 <!--
